@@ -1,0 +1,7 @@
+The submission is in Jupyter notebook format along with python code files.
+
+Python3 and Jupyter is required to run the scripts.
+
+Make sure that the 3 datasets are in the same folder as the notebook.
+
+In order to run the scripts: nltk, pydot, keras, tensorflow is required. 
